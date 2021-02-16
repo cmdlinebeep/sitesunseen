@@ -1,0 +1,10 @@
+	/* gold ideas:
+	Replace all #5-f-4-d-e-e with these:
+	#e0cb82
+	#ffb22b
+	#deb992
+	#DAA520
+	#d9b310 */
+
+
+--> Final was closest to deb992, but actually da9f61  :)

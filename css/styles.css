@@ -916,6 +916,7 @@ input[type='checkbox'] {
 	color: #f7f5f5;
 }
 
+/* jdw */
 .tabs h3, .tabs p {
 		color: #f7f5f5;
 }
@@ -1611,10 +1612,16 @@ a:hover.back-to-top {
 /****************************************/
 .ex-2-header {
 	padding-top: 9rem;
-	background-color: #da9f61;
+	/* background-color: #da9f61; */
+	background-color: #000;
 	text-align: center;
 	min-height: 100vh;
 }
+
+/* jdw */
+/* .form-group {
+	text-align: left;
+} */
 
 .ex-2-header h1,
 .ex-2-header p {
@@ -1622,14 +1629,16 @@ a:hover.back-to-top {
 }
 
 .ex-2-header p {
-	max-width: 24rem;
+	/* max-width: 24rem; */
+	max-width: 28rem;
 	margin-right: auto;
 	margin-bottom: 2.5rem;
 	margin-left: auto;
 }
 
 .ex-2-header .form-container {
-	max-width: 26rem;
+	/* max-width: 26rem; */
+	max-width: 30rem;
 	margin-right: auto;
 	margin-left: auto;
 	padding: 2.25rem 1.25rem 1.25rem 1.25rem;

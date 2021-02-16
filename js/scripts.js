@@ -161,7 +161,7 @@
     	if (event.isDefaultPrevented()) {
             // handle the invalid form...
             sformError();
-            ssubmitMSG(false, "Please fill all fields!");
+            ssubmitMSG(false, "Please fill in all fields");
         } else {
             // everything looks good!
             event.preventDefault();

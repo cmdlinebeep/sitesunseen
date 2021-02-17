@@ -97,7 +97,7 @@ h5 {
 }
 
 h6 {
-	color: #333;
+	color: #888;
 	font: 700 1rem/1.375rem "Open Sans", sans-serif;
 	letter-spacing: -0.1px;
 }
@@ -1230,6 +1230,10 @@ input[type='checkbox'] {
 	margin-bottom: 3.75rem;
 }
 
+.cards-2 .h6-heading {
+	margin-bottom: 2.5rem;
+}
+
 .cards-2 .card {
 	display: block;
 	max-width: 19rem;
@@ -1257,6 +1261,9 @@ input[type='checkbox'] {
 	font-size: 1.5rem;
 	vertical-align: 40%;
 }
+
+/* .cards-2 .card .price .superscript { position: relative; top: -1.5em; font-size: 80%; } */
+.cards-2 .card .price .superscript { position: relative; top: -1.0em; font-size: 1.35rem; }
 
 .cards-2 .card .price .value {
 	color: #434c54;

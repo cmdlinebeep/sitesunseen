@@ -1236,7 +1236,8 @@ input[type='checkbox'] {
 
 .cards-2 .card {
 	display: block;
-	max-width: 19rem;
+	/* max-width: 19rem; */  /* ~jdw */
+	max-width: 18rem;
 	margin-right: auto;
 	margin-bottom: 3rem;
 	margin-left: auto;
